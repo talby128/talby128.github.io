@@ -1,0 +1,23 @@
+
+body{
+	background-image: url(/Users/steven128/desktop/create1.jpg);
+	flex-wrap: wrap;
+	background-size: cover;
+}
+
+p{
+	font-family: fantasy;
+	font-size: 3em;
+	color: white;
+	flex-wrap: wrap;
+	text-align: center;
+
+}
+.btn-primary{
+	border-color: white;
+	background-color: blue;
+	cursor: pointer;
+}
+.btn-primary:hover {
+	background-color: grey;
+}
